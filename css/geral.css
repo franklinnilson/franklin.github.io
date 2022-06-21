@@ -65,7 +65,7 @@ h3.subtext{
 }
 
 h3.title{
-  color: #50B6BB;
+  color: #00bbc5;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -76,7 +76,7 @@ p{
 }
 
 .bg-blue{
-  background: #50B6BB;
+  background: #00bbc5;
 }
 
 .bg-blue p{
@@ -96,7 +96,7 @@ p{
 .bg-black.middle-white:before{
   content: "";
   display: block;
-  background: #50B6BB;
+  background: #00bbc5;
   right: 0;
   width: 60%;
   position: absolute;
@@ -146,7 +146,7 @@ h4{
 }
 
 .btn.btn-featured{
-  background: #50B6BB;
+  background: #00bbc5;
   text-decoration: none;
   color: white;
   border: none;
@@ -480,7 +480,7 @@ h4{
   left: -1.5rem;
   width: 3rem;
   height: 3rem;
-  background: #50B6BB;
+  background: #00bbc5;
 }
 
 .cursor-wrapper.title-done .svg-cursor{
@@ -488,7 +488,7 @@ h4{
   left: -3rem;
   width: 6rem;
   height: 6rem;
-  background: #50B6BB;
+  background: #00bbc5;
 }
 
 .cursor-wrapper.link{
@@ -512,9 +512,9 @@ h4{
   left: -3rem;
   width: 6rem;
   height: 6rem;
-  background: #50b6bb4d;
+  background: #00bbc54d;
   content: "Drag";
-  border: 1px solid #50B6BB;
+  border: 1px solid #00bbc5;
   border-radius: 1000rem;
   -webkit-backdrop-filter: blur(1px);
   backdrop-filter: blur(3px);
@@ -524,7 +524,7 @@ h4{
   top: -3rem;
   left: -3rem;
   content: "Drag";
-  color:#50B6BB;
+  color:#00bbc5;
   font-size: 11px;
 }
 
